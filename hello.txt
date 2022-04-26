@@ -8,3 +8,4 @@ hello Liu
 hello Liu master test
 hello Liu hot_fix test
 123456789
+测试一下中文
